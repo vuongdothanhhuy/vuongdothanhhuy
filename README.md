@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vuongdothanhhuy
-- I'm a Frontend Developer at NFQ Asia.
+- I'm a Senior Frontend Developer. LOOKING_FOR_JOB!
 - 👀 I’m interested in many things: JS, education, pedagogy,...
-- 🌱 I’m currently working on VueJS and Shopware.
+- 🌱 I’m expertise in working on VueJS and Shopware, currently on ReactJS with Redux and Jest.
 
 <!---
 vuongdothanhhuy/vuongdothanhhuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
